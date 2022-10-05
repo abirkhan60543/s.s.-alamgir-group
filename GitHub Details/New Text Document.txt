@@ -1,0 +1,7 @@
+echo "# s.s.-alamgir-group" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abirkhan60543/s.s.-alamgir-group.git
+git push -u origin main
